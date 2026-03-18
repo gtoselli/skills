@@ -2,11 +2,11 @@
 
 A personal collection of agent skills that extend capabilities across planning, development, and tooling.
 
+## How to use
 
-### How to use
 - (if needed) `mkdir ~/.claude/skills`
-- `ln -s grill-me ~/.claude/skills/grill-me`
+- `ln -s "$PWD/grill-me" ~/.claude/skills/grill-me`
 
+## Credits
 
-### Credits
 - Matt Pocock https://github.com/mattpocock/skills

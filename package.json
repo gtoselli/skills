@@ -1,0 +1,11 @@
+{
+  "name": "skills",
+  "scripts": {
+    "prepare": "git config core.hooksPath .githooks",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.41.0"
+  }
+}
